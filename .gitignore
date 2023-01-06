@@ -1,0 +1,5 @@
+nui/dist/*
+!nui/dist/.gitkeep
+node_modules
+.env
+mix-manifest.json
