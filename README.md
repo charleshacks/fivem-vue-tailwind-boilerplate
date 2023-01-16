@@ -35,7 +35,7 @@ Several Node.js build commands are included;
 
 This resource contains a "hot reloading" feature that allows your resource to automatically restart each time a build is triggered (either by `npm run dev` or more ideally `npm run watch`.)
 
-To utilize hot reloading, you will need to enable RCON on your development FiveM server, and enter the RCON connection details in `nui/.env`. Additionally, be sure to update the resource name in `.env` so the build system knows which resource to restart.
+To utilize hot reloading, you will need to enable RCON on your development FiveM server, then copy `nui/.env.example` to `nui/.env` and enter the RCON connection details. Additionally, be sure to update the resource name in `.env` so the build system knows which resource to restart.
 
 ## Support
 
