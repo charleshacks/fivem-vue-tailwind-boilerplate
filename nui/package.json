@@ -2,7 +2,7 @@
   "name": "fivem-vue-tailwind-boilerplate",
   "version": "0.0.0",
   "description": "Vue + TailwindCSS Boilerplate for FiveM",
-  "author": "CharlesHacks#9999 <charleshacks123@gmail.com>",
+  "author": "CharlesHacks#9999 <charles@charleshacks.com>",
   "license": "MIT",
   "scripts": {
     "dev": "mix",
